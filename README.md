@@ -9,4 +9,4 @@ Czego się nauczyłem:
 * stworzenia prostego licznika
 * przygotowania projektu są zrealizowane z dokładnością 1:1 względem oryginału zarówno pod względem funkcjonalności, jak i wyglądu.
 
-Link do projektu: https://cezary01-bit.github.io/Res-API-Countries/
+Link do projektu: https://cezary01-bit.github.io/minesweeper/
